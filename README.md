@@ -8,7 +8,7 @@ The project consists of several MATLAB scripts:
 
 - `covid.m`: Main script to run the SEIRD model without any pandemics policy.
 - `odefunc.m`: Function defining the system of ordinary differential equations (ODEs) for the SEIRD model.
-- `CvidPolicy.m`: Script to simulate the impact of a public health policy, such as social distancing, on the spread of the virus.
+- `CovidPolicy.m`: Script to simulate the impact of a public health policy, such as social distancing, on the spread of the virus.
 
 ## SEIRD Model
 
