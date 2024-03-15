@@ -23,7 +23,7 @@ The SEIRD model is based on the following compartments:
 ## Running the Model
 
 1. Ensure you have MATLAB installed.
-2. Run `main.m` to execute the SEIRD model and Monte Carlo simulations.
+2. Run either `Covid.m` or `CovidPolicy.m` to execute the SEIRD model and Monte Carlo simulations.
 3. Results will be plotted, showing the predicted spread of COVID-19 in Poland.
 
 ## Notes
